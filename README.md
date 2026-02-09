@@ -64,8 +64,8 @@ Os materiais deste repositório são referenciados no documento principal do TCC
 
 📝 Observações
 
--> Todas as imagens foram desenvolvidas especificamente para este trabalho acadêmico.
--> Os diagramas seguem padrões visuais consistentes para facilitar a compreensão.
--> As dimensões e formatos foram otimizados para inclusão em documentos acadêmicos.
+* Todas as imagens foram desenvolvidas especificamente para este trabalho acadêmico.
+* Os diagramas seguem padrões visuais consistentes para facilitar a compreensão.
+* As dimensões e formatos foram otimizados para inclusão em documentos acadêmicos.
 
 
